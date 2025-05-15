@@ -330,7 +330,7 @@ class App extends Component {
           <ul className="nav-items">
             <li>
               <p className="score">
-                Score: <span>{this.state.score}</span>
+                Score: <span>{score}</span>
               </p>
             </li>
             <li className="timer-item">
